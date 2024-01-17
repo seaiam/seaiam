@@ -11,7 +11,7 @@ I am a fourth-year Software Engineering student from Montreal, Canada. <br/>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working as a Teaching Assistant for Object-Oriented Programming II at Concordia University
-- 🌱 &nbsp; I’m currently learning React. 
+- 🌱 &nbsp; I’m learning React, and I'm open to much more ! 
 - 👨🏻‍💻 &nbsp; I am passionate about Artificial Intelligence, Natural Language Processing and Machine Learning. I also love leading team projects and finding fun and innovative ways to solve complex problems.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fatima-el-fouladi/)
 - 📝 &nbsp; Checkout my [resume !](https://drive.google.com/file/d/1xsLV0MJ62wILehvFsfuChTQUmsYRkpRA/view?usp=drive_link)
