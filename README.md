@@ -4,22 +4,21 @@
 </a>
 
 <br>
-I am a fourth-year Software Engineering student from Montreal, Canada. <br/>
+I am a Data Analyst and Project Manager based in Montreal, Canada. <br/>
 <br/>
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working as a Teaching Assistant for Object-Oriented Programming II at Concordia University
+- 🔭 &nbsp; I’m currently working as a Data Analyst. I love data and all the ways it can be used, from creating tools to optimize daily tasks to revolutionizing healthcare.
 - 🌱 &nbsp; I’m learning React, and I'm open to much more ! 
-- 👨🏻‍💻 &nbsp; I am passionate about Artificial Intelligence, Natural Language Processing and Machine Learning. I also love leading team projects and finding fun and innovative ways to solve complex problems.
+- 👨🏻‍💻 &nbsp; I am passionate about Artificial Intelligence, Natural Language Processing and Machine Learning. I also thrive when leading projects and yearn to find fun and efficient ways to solve complex problems.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fatima-el-fouladi/)
 - 📝 &nbsp; Checkout my [resume !](https://drive.google.com/file/d/1xsLV0MJ62wILehvFsfuChTQUmsYRkpRA/view?usp=drive_link)
 <br>
 
 ### 🔨 Languages and Tools:
 <img src='https://github.com/seaiam/seaiam/assets/65039814/8e64e488-6bb9-44e6-b090-beab23dcce89' alt='bash' width='60'>
-<img src='https://github.com/seaiam/seaiam/assets/65039814/6f7fbf63-9aae-4f9b-b01e-869a4908801e' alt='C' width='60'>
 <img src='https://github.com/seaiam/seaiam/assets/65039814/2ca6e4da-63a6-4855-ba83-ed9dca2e3aa1' alt='C++' width='60'>
 <img src='https://github.com/seaiam/seaiam/assets/65039814/5ca44b75-46b8-4125-8c4b-6b5ebfb13974' alt='Cassandra' width='60'>
 <img src='https://github.com/seaiam/seaiam/assets/65039814/7a66da20-060b-4202-a291-c69a98d5ea1b' alt='Clojure' width='60'>
